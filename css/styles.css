@@ -1,0 +1,73 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #2e2f42;
+}
+:root {
+  --main-page-color: #2e2f42;
+  --normal-color: #4d5ae5;
+  --active-color: #404bbf;
+  --contact-link-color: #434455;
+}
+ul {
+  list-style-type: none;
+}
+.logo {
+  color: var(--normal-color);
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.nav-item {
+  color: var(--main-page-color);
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  text-decoration: none;
+}
+.nav-item:active {
+  color: var(--active-color);
+}
+.contact-link {
+  color: var(--contact-link-color);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-decoration: none;
+}
+.contact-link:hover {
+  color: green;
+}
+.contact-link:active {
+  color: var(--active-color);
+}
+.hero-header {
+  color: #ffffff;
+  background-color: var(--main-page-color);
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 1.12px;
+}
+.hero-button {
+  color: #ffffff;
+  background-color: var(--normal-color);
+}
+.hero-button:hover {
+  color: #ffffff;
+  background-color: var(--active-color);
+}
+.filter-button {
+  color: var(--normal-color);
+  background-color: #e7e9fc;
+  border: 1px solid #e7e9fc;
+}
+.filter-button:hover {
+  color: #ffffff;
+  background-color: var(--active-color);
+}
