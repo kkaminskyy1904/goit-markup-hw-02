@@ -114,6 +114,7 @@ body {
   list-style: none;
 }
 .feature-name {
+  color: var(--main-page-color);
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
