@@ -20,7 +20,7 @@ body {
   color: var(--normal-color);
   font-family: "Raleway", sans-serif;
   font-style: normal;
-  font-weight: 800;
+  font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   text-transform: uppercase;
@@ -30,7 +30,7 @@ body {
   color: var(--main-page-color);
   font-family: "Raleway", sans-serif;
   font-style: normal;
-  font-weight: 800;
+  font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   text-transform: uppercase;
@@ -159,7 +159,7 @@ body {
   color: #f4f4fd;
   font-family: "Raleway", sans-serif;
   font-style: normal;
-  font-weight: 800;
+  font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   text-transform: uppercase;
